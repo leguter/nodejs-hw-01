@@ -1,3 +1,6 @@
-export const countContacts = async () => {};
+import { PATH_DB } from "../constants/contacts";
 
-console.log(await countContacts());
+// export const countContacts = async () => { };
+
+// console.log(await countContacts());
+console.log(PATH_DB);
