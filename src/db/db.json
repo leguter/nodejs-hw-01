@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "14c4a3c4-56e6-4f95-b880-6d93bc73e0d1",
+    "name": "Carlos Ziemann",
+    "phone": "384.445.3071 x3046",
+    "email": "Colleen_Douglas66@gmail.com",
+    "job": "Dynamic Web Consultant"
+  },
+  {
+    "id": "5f2c5af0-c209-41c7-a196-c430c655ac71",
+    "name": "Kerry Cummings",
+    "phone": "1-523-794-2950",
+    "email": "Tyson_Hahn@gmail.com",
+    "job": "Forward Metrics Liaison"
+  },
+  {
+    "id": "ed7d0b2e-75de-4261-99d1-00c384861578",
+    "name": "Myrtle Brekke",
+    "phone": "(246) 392-6284 x2962",
+    "email": "Julianne_Labadie@gmail.com",
+    "job": "Global Communications Designer"
+  },
+  {
+    "id": "64c677f1-682e-4b9c-91ec-f3efa5fc60f1",
+    "name": "Jessie McLaughlin III",
+    "phone": "1-888-523-0507 x1111",
+    "email": "Hayden72@hotmail.com",
+    "job": "Internal Operations Developer"
+  }
+]
